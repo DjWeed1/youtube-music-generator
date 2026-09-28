@@ -22,9 +22,9 @@ The project includes a `gh-pages` deployment script and an explicit GitHub Pages
 
 ## Change Log
 
-### 2026-09-28 03:xx Europe/Vienna (CEST) — CI / Portfolio / Maintenance
+### 2026-09-28 03:39 Europe/Vienna (CEST) — CI / Portfolio / Maintenance
 - Replaced the generic Vite template README with project-specific documentation.
 - Added automated `npm ci`, lint and production-build validation for pull requests and `main` pushes.
 - Documented the existing GitHub Pages deployment target.
 
-> Time is recorded in Europe/Vienna; the repository change was made during this work session.
+> The timestamp uses the verified Europe/Vienna minute in which the change set's draft PR was created.
